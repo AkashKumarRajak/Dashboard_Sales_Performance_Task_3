@@ -50,8 +50,6 @@ Design a fully interactive and stakeholder-friendly dashboard using **Power BI**
 
 ## 📸 Dashboard Preview
 
-> Insert screenshots in the `images/` folder of this repo and link them like below:
-
 ![Dashboard Preview](Dashboard_Sales_Performance.png)  
 
 ---
